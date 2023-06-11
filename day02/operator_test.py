@@ -30,7 +30,7 @@ print(not(bitcoin < 0))
 
 # in 연산자 [리스트]
 x = ['mega','study','shinchon']
-print('study' in x) # x안에 스터디가 있니?
+print('study' in x)             # x안에 스터디가 있니?
 
 
 
