@@ -62,7 +62,15 @@ for i in range(num+1):
 
 num = int(input("숫자를 입력해주세요: "))
 
-for i in range(1,100):
+if num > 100:
+    print("오류입니다.")
+
+for i in range(1,101):
+    if i % num == 0:
+
+        print(i)
+
+
 
 
 
