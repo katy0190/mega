@@ -35,3 +35,29 @@ numbers.append(6)
 print(numbers)
 
 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+      <div class="mb-3">
+        <label class="form-label" style="font-size:30px;"> URL을 입력해주세요. </label>
+        <input type="text" class="tag is-large" name="name"/>
+
+      </div>
+
+  <button class="button is-medium" >입력</button>
+
+</form>
+
+</body>
+</html>
+
+
